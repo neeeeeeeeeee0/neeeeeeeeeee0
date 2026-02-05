@@ -1,5 +1,13 @@
-<h1> Hi, I'm Maria! 
- <br/> <a href="https://"> Junior Cybersecurity Professional</a> </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=neeeeeeeeeee0.neeeeeeeeeee0" />
+
+<h1 align="centre">
+ <a href="https://git.io/typing-svg"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Maria!+👋;" /">
+ </a>
+</h1>
+
+<h1>
+<br/> <a href="https://"> Junior Cybersecurity Professional</a> </h1>
 
  <b>  Hello, my name is Maria, and I work in cybersecurity, specializing in penetration testing and protection </b>
  
@@ -21,10 +29,25 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,vscode,docker,react" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,java,mysql,github,figma,git" />
+</div>
+
 <h2>🧑‍🎓 Certificates:</h2> 
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Maria | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<div align="center"> 
+ <a href="mailto:name@yandex.ru">
+  <img src="https://img.shields.io/badge/Yandex-000000?style=for-the-badge&logo=yandex&logoColor=white"/>
+ </a>
 
-[telegram]: 
+ <a href="https://t.me/your_username">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+ </a>
+</div>
