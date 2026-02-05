@@ -42,7 +42,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<div align="center"> 
+<div align="light"> 
  <a href="mailto:name@yandex.ru">
   <img src="https://img.shields.io/badge/Yandex-000000?style=for-the-badge&logo=yandex&logoColor=white"/>
  </a>
