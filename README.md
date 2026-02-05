@@ -1,7 +1,7 @@
 <h1> Hi, I'm Maria! 
  <br/> <a href="https://"> Junior Cybersecurity Professional</a> </h1>
 
- <b>  Hello, my name is Maria, and I work in cybersecurity, specializing in penetration testing and protection. </b>
+ <b>  Hello, my name is Maria, and I work in cybersecurity, specializing in penetration testing and protection </b>
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -20,6 +20,8 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>🧑‍🎓 Certificates:</h2> 
 
 <h2> 🤳 Connect with me:</h2>
 
