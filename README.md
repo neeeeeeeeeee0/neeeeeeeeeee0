@@ -38,6 +38,7 @@
 
 <h2>🧑‍🎓 Certificates:</h2> 
 - <b>VK "DevOps/SRE-engineer" 2026 </b>
+  - kkkk
 - <b>VK "advanced Python" 2026 </b>
 - <b>VK "Python" 2026 </b>
 - <b>T-bank "SRE-engineer" 2026 </b>
@@ -49,8 +50,6 @@
 - <b>VK "" 2026 </b>
 - <b>VK "" 2026 </b>
 - <b>VK "" 2026 </b>
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 
 <h2> 🤳 Connect with me:</h2>
 
