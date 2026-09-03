@@ -37,6 +37,7 @@
 </div>
 
 <h2>🧑‍🎓 Certificates:</h2> 
+
 - <b>VK "DevOps/SRE-engineer" 2026 </b>
   - kkkk
 - <b>VK "advanced Python" 2026 </b>
