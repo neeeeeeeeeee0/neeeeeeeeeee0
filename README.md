@@ -37,7 +37,7 @@
 </div>
 
 <h2>🧑‍🎓 Certificates:</h2> 
-
+- <b>VK "DevOps/SRE"</b>
 
 
 <h2> 🤳 Connect with me:</h2>
