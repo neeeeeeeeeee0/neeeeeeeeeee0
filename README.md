@@ -49,6 +49,8 @@
 - <b>VK "" 2026 </b>
 - <b>VK "" 2026 </b>
 - <b>VK "" 2026 </b>
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
 <h2> 🤳 Connect with me:</h2>
 
