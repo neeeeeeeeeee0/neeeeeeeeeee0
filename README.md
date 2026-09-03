@@ -7,7 +7,7 @@
 </h1>
 
 <h1>
-<br/> <a href="https://"> Junior Cybersecurity Professional</a> </h1>
+<br/> <a href="https://"> Junior Cybersecurity Professional </a> </h1>
 
  <b>  Hello, my name is Maria, and I work in cybersecurity, specializing in penetration testing and protection </b>
  
