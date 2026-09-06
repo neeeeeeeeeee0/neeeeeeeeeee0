@@ -42,10 +42,6 @@
 - <b>Stepik "Python" 2025-2026 </b>
 - <b>Stepik "Java" 2025 </b>
 - <b>Innopolis "ethical hacking Python" 2023-2024 </b>
-- <b>VK "" 2026 </b>
-- <b>VK "" 2026 </b>
-- <b>VK "" 2026 </b>
-- <b>VK "" 2026 </b>
 
 <h2> 🤳 Connect with me:</h2>
 
